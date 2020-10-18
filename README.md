@@ -1,3 +1,9 @@
 # Patreon Notifier
 
-![Patreon Icon](./imgs/patreon_ico.bmp) + ![IFTTT Icon](./imgs/ifttt_ico.bmp)
+<div>
+  <img src="./imgs/patreon_ico.bmp" alt="Patreon logo" title="patreon.com" height=100 />
+
+   <span> & </span>
+
+  <img src="./imgs/ifttt_ico.bmp" alt="IFTTT logo" title="IFTTT icon" height=100 />
+</div>
